@@ -1,19 +1,27 @@
 # 0xbird.github.io
 那就以《黑客与画家》中的一句话开始吧：黑客是不服从管教的，这就是他们的本性。
 
+
 ![image](https://github.com/streetleague/0xbird.github.io/blob/master/images/微信截图_20190627192134.png)
+
 
 我的故事是从一颗篮球开始的，高中那阵子学习之余的唯一爱好就是打球，有一天同学给我看了一个叫《脚踝终结者》的篮球纪录片，里面是艾佛森，马布里，韦德等球星的过人动作集锦，那些充满创造性的动作和各种富有侵略性的攻击手段，吸引了当时的那个懵懂少年，后来我知道这些篮球动作被叫做：街头篮球。
 
+
 ![image](https://github.com/streetleague/0xbird.github.io/blob/master/images/微信截图_20190627192157.png)
+
 
 从那时候起，开始苦练各种街球动作，这些动作充满创造性，想象力，无拘无束，将对手耍的团团转，一个人可以打遍全场，这可能也造成了我做什么事情都喜欢独来独往，单打独斗的性格，这种性格在人际交往中有很大缺陷，但是在安全研究中它却变成了一种死磕到底的热情。
 
+
 ![image](https://github.com/streetleague/0xbird.github.io/blob/master/images/微信截图_20190627192209.png)
+
 
 街球只是开始，从大学第一天见到滑板后，我就知道我的大学生涯完全“失控”了，滑板会上瘾，对那种摔在地上的感觉上瘾，喜欢滑板很大程度上的原因是因为“自由”，这是骨子里的性格使然，你不去想别人怎么看你，你只需要带上你的滑板和一个地形死磕，直到你征服了它，但是大多数时候你都是失败的一方，没关系，第二天重新尝试，后来我发现，安全研究和漏洞挖掘也需要这样的这样的热情和头铁，每天都是一场战争。
 
+
 ![image](https://github.com/streetleague/0xbird.github.io/blob/master/images/微信截图_20190627192223.png)
+
 
 然后是涂鸦，跑酷，极限轮滑，BMX，一发不可收拾，我的生活被他们填满侵蚀，它们不是体操，不是滑冰，不存在分值，需要你运用自己的想象力创造出动作，然后再克服身体极限去完成动作，在这些极限运动里没有极限，永无止境，你无法征服想象力。
 
@@ -41,7 +49,7 @@
 
 出于现实的考虑选择了将安全研究作为职业，如果可以更愿意成为一名职业滑手，真正的黑客和滑板者，涂鸦师其实是一类人，他们都是人类边界的拓荒者，每天都有不同的目标，把这些完成的点连起来，就构成了这一天。我们所结交过的人，热爱的领域，听过的音乐，学过的专业，所做过的、经历过的每一件事，促成了自己风格的形成，我们对周围事物的理解，我们的风格，我们的作品，就代表我们的生活，我的这幅画已经画了25年了。
 
-![image](https://github.com/streetleague/0xbird.github.io/blob/master/images/微信截图_20190627192334.png)
+![image](https://github.com/streetleague/0xbird.github.io/blob/master/images/微信截图_20190627192344.png)
 
 这就是我很平凡的故事，只是想努力可以对得起自己那份热情，最后就用《乔布斯传》最后的一段话作为结尾：
 这是向疯子们的致敬，他们特立独行，桀骜不驯，麻烦制造者，他们是格格不入的一群人，喜欢用不同眼光看事情的人，不受规则约束的人，对即成事实也不屑一顾的人，你可以嘲笑他们，也可以反驳他们，或赞颂或诋毁他们 你唯一做不到的，就是忽视他们。
@@ -49,9 +57,11 @@
 ![image](https://github.com/streetleague/0xbird.github.io/blob/master/images/微信截图_20190627192354.png)
 
 相关博客地址：
-知乎
-https://www.zhihu.com/people/zhang-peng-87-6-42/activities
-看雪
-https://passport.kanxue.com/user-center-823237.htm
+知乎：https://www.zhihu.com/people/zhang-peng-87-6-42/activities
+看雪：https://passport.kanxue.com/user-center-823237.htm
+
+![image](https://github.com/streetleague/0xbird.github.io/blob/master/images/Me.png)
 
 
+
+![image](https://github.com/streetleague/0xbird.github.io/blob/master/images/per.jpg)
