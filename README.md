@@ -62,6 +62,10 @@
 
 看雪：https://passport.kanxue.com/user-center-823237.htm
 
+freebuf：https://www.freebuf.com/author/小鸟
+
+安全客：https://www.anquanke.com/member/134235
+
 ![image](https://github.com/streetleague/0xbird.github.io/blob/master/images/Me.png)
 
 
